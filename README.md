@@ -1,4 +1,4 @@
-Citi Bike Analysis
+**Citi Bike Analysis**
 
 Based on the usage of Citi Bikes in New York available from Citi Bike website (https://www.citibikenyc.com/system-data) , I created a series of bubble maps for each hour of the day to show which stations are more frequently used than others.
 
