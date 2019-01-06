@@ -13,6 +13,6 @@ You can watch the video in the link below:
 ●	I used Python packages including Pandas, Numpy, and Folium in order to create data structures and bubble map
 
 
-Test: 
-![alt text](https://github.com/magiclite/Citi-Bike/blob/master/images/Nine.png "My picture")
+Snapshot at 9AM: 
+![alt text](https://github.com/magiclite/Citi-Bike/blob/master/images/Nine.png "Bike data at 9 AM")
 
