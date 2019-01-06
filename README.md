@@ -13,5 +13,6 @@ You can watch the video in the link below:
 ●	I used Python packages including Pandas, Numpy, and Folium in order to create data structures and bubble map
 
 
-
+Test: 
+![alt text](https://github.com/magiclite/Citi-Bike/tree/master/images/Nine.png)
 
