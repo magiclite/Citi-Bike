@@ -6,10 +6,15 @@ You can watch the video in the link below:
 <https://www.youtube.com/watch?v=glH-pzARA28>
 
 ●	The data I used are in September and February of 2018
+
 ●	Yellow bubbles show frequency of users starting their trips at the station
+
 ●	Blue bubbles show frequency of users ending their trips at the station
+
 ●	Size of bubbles is proportional to frequency of usage at each station (i.e. larger yellow bubbles at a station mean more users start their trips)
+
 ●	The snapshots were generated at each hour (i.e. snapshot at 9am show frequency of trips taken at each station between 9am and 10am)
+
 ●	I used Python packages including Pandas, Numpy, and Folium in order to create data structures and bubble map
 
 
