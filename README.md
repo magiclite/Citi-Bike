@@ -11,7 +11,7 @@ You can watch the video in this link:
 
 ●	Blue bubbles show frequency of users ending their trips at the station
 
-●	Size of bubbles is proportional to frequency of usage at each station (i.e. larger yellow bubbles at a station mean more users start their trips)
+●	Size of bubbles is proportional to frequency of usage at each station (i.e. larger yellow bubbles at a station mean more users start their trips at the station)
 
 ●	The snapshots were generated at each hour (i.e. snapshot at 9am show frequency of trips taken at each station between 9am and 10am)
 
