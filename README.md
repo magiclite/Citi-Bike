@@ -2,7 +2,7 @@
 
 Based on the usage of Citi Bikes in New York available from Citi Bike website (https://www.citibikenyc.com/system-data) , I created a series of bubble maps for each hour of the day to show which stations are more frequently used than others.
 
-You can watch the video in the link below:
+You can watch the video in this link:
 <https://www.youtube.com/watch?v=glH-pzARA28>
 
 ●	The data I used are in September and February of 2018
